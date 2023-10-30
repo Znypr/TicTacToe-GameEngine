@@ -1,0 +1,3 @@
+torch==1.10.0  # PyTorch library for neural networks
+torchvision==0.11.1  # Complementary to PyTorch, but might not be necessary if you're not using any of its features
+numpy==1.21.2  # For numerical operations
